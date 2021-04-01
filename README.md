@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @emanuelle04
-- 👀 I’m interested in develop games with Python
+- 👋 Hi, I’m @emanuelle04 
+- 👀 I’m interested in Python 
 - 🌱 I’m currently learning Kotlin, JAVA and Kivy framework.
 
 <!---
