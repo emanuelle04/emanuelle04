@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @emanuelle04 
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Kotlin, JAVA and Kivy framework.
+- 📓 I use this gitHub to keep a record of my College projects.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelle04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
